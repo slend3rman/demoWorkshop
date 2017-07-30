@@ -1,6 +1,9 @@
 git config --global user.name <username>
 git config --global user.email <useremail>
 git config --list
+mkdir <name same as repo name>
+git pull origin master
+git init
+git log
 git remote add origin <URL>
 git remote -v
-git pull origin master
